@@ -1,0 +1,5 @@
+kind,version,ref,publication
+main,1.0.0,1.0.0/programs.csv,2024-12-22
+mapping,1.0.0,1.0.0/mapping.csv,2024-12-22
+main,1.1.0,1.1.1/programs.csv,2024-04-13
+mapping,1.1.0,1.1.1/mapping.csv,2024-04-13

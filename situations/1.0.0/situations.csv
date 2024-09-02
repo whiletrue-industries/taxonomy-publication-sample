@@ -1,0 +1,11 @@
+id,name,description,parent,synonyms
+age_group,קבוצת גיל,,,
+infants,הגיל הרך,גיל לידה עד 6,age_group,"תינוקות"
+children,ילדים,גיל 6 עד 12,age_group,"ילדים"
+teenagers,נוער,גיל 12 עד 18,age_group,"נוער"
+adults,מבוגרים,,age_group,"מבוגרים"
+elderly,קשישים,מגיל 65 ומעלה,age_group,"זקנים,הגיל השלישי"
+religion,דת,,,
+jewish,יהודי,,religion,
+muslim,מוסלמי,,religion,
+christian,נוצרי,,religion,

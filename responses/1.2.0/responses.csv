@@ -1,0 +1,7 @@
+id,name,description,parent,synonyms,name.en
+housing,דיור,פתרונות המספקים קורת גג זמנית או ארוכת טווח,,Housing,
+old_age_home,בית אבות,פתרונות המספקים דיור ושירותים לקשישים,housing,"בית זקנה,בית אבות",Old Age Home
+hostel,הוסטל,דיור לאנשים עם צרכים מיוחדים,housing,,Hostel
+education,חינוך,פתרונות המסייעים בקבלת חינוך רגיל או תוספתי,,Education,
+financial_education,חינוך פיננסי,פתרונות המסייעים בהבנת נושאים פיננסיים,education,"חינוך כלכלי,ניהול תקציב",Financial Education
+after_school_childcare,צהרונים,מסגרות לילדים אחרי בית הספר,education,"בית התלמיד",After School Childcare
